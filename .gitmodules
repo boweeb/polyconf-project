@@ -1,0 +1,24 @@
+[submodule "polyconf"]
+	path = polyconf
+	url = git@github.com:boweeb/polyconf.git
+[submodule "polyconf-cli"]
+	path = polyconf-cli
+	url = git@github.com:boweeb/polyconf-cli.git
+[submodule "polyconf-plugins-direnv"]
+	path = polyconf-plugins-direnv
+	url = git@github.com:boweeb/polyconf-plugins-direnv.git
+[submodule "polyconf-plugins-env"]
+	path = polyconf-plugins-env
+	url = git@github.com:boweeb/polyconf-plugins-env.git
+[submodule "polyconf-plugins-file"]
+	path = polyconf-plugins-file
+	url = git@github.com:boweeb/polyconf-plugins-file.git
+[submodule "polyconf-plugins-http"]
+	path = polyconf-plugins-http
+	url = git@github.com:boweeb/polyconf-plugins-http.git
+[submodule "polyconf-plugins-sql"]
+	path = polyconf-plugins-sql
+	url = git@github.com:boweeb/polyconf-plugins-sql.git
+[submodule "polyconf-plugins-xdg"]
+	path = polyconf-plugins-xdg
+	url = git@github.com:boweeb/polyconf-plugins-xdg.git
